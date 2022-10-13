@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coderhouse_react_luis_lebus/static/css/main.83f118ad.css",
+    "main.js": "/coderhouse_react_luis_lebus/static/js/main.048e3160.js",
+    "static/js/787.4e4a90a8.chunk.js": "/coderhouse_react_luis_lebus/static/js/787.4e4a90a8.chunk.js",
+    "index.html": "/coderhouse_react_luis_lebus/index.html",
+    "main.83f118ad.css.map": "/coderhouse_react_luis_lebus/static/css/main.83f118ad.css.map",
+    "main.048e3160.js.map": "/coderhouse_react_luis_lebus/static/js/main.048e3160.js.map",
+    "787.4e4a90a8.chunk.js.map": "/coderhouse_react_luis_lebus/static/js/787.4e4a90a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83f118ad.css",
+    "static/js/main.048e3160.js"
+  ]
+}
