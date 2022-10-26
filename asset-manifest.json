@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/coderhouse_react_luis_lebus/static/css/main.42a1863a.css",
-    "main.js": "/coderhouse_react_luis_lebus/static/js/main.34de3e9b.js",
+    "main.js": "/coderhouse_react_luis_lebus/static/js/main.0a66eb01.js",
     "static/js/787.c1112931.chunk.js": "/coderhouse_react_luis_lebus/static/js/787.c1112931.chunk.js",
     "index.html": "/coderhouse_react_luis_lebus/index.html",
     "main.42a1863a.css.map": "/coderhouse_react_luis_lebus/static/css/main.42a1863a.css.map",
-    "main.34de3e9b.js.map": "/coderhouse_react_luis_lebus/static/js/main.34de3e9b.js.map",
+    "main.0a66eb01.js.map": "/coderhouse_react_luis_lebus/static/js/main.0a66eb01.js.map",
     "787.c1112931.chunk.js.map": "/coderhouse_react_luis_lebus/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.42a1863a.css",
-    "static/js/main.34de3e9b.js"
+    "static/js/main.0a66eb01.js"
   ]
 }
