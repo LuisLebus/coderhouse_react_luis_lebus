@@ -1,15 +1,16 @@
 import CartWidget from "../CartWidget/CartWidget";
 import { Link } from "react-router-dom";
 
-import "bootstrap/dist/css/bootstrap.min.css";
-import "bootstrap/dist/js/bootstrap.min.js";
-
 export default function NavBar() {
   return (
     <nav className="navbar navbar-expand-lg bg-light">
       <div className="container-fluid gap-5">
         <Link className="navbar-brand" to="/">
-          <img src="../assets/images/logo.png" alt="Logo" width="90" />
+          <img
+            src={`${process.env.PUBLIC_URL}/assets/images/logo.png`}
+            alt="Logo"
+            width="90"
+          />
         </Link>
 
         <CartWidget />

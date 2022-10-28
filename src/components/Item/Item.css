@@ -1,8 +1,9 @@
 .itemAnim {
     filter: grayscale(1);
-    transition: 0.2s; 
+    transition: 0.5s; 
 }
     
 .itemAnim:hover {
+    transform: scale(1.1); 
     filter: none; 
 }

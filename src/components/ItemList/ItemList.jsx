@@ -1,12 +1,14 @@
 import React from "react";
-import FlexWrapper from "../FlexWrapper/FlexWrapper";
 import Item from "../Item/Item";
+import Loader from "../Loader/Loader";
 
 export function ItemList(props) {
   return (
-    <div>
-      <FlexWrapper>
-        {props.characterList.map((element) => {
+    <div className="d-flex flex-wrap justify-content-center align-items-center gap-5 m-5">
+      {props.characterList.length === 0 ? (
+        <Loader />
+      ) : (
+        props.characterList.map((element) => {
           return (
             <Item
               key={element.id}
@@ -16,8 +18,8 @@ export function ItemList(props) {
               img={element.img}
             />
           );
-        })}
-      </FlexWrapper>
+        })
+      )}
     </div>
   );
 }
